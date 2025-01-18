@@ -4,8 +4,9 @@
 
 工学社の雑誌 I/O 1981年10月号掲載の芸夢狂人氏のスペース・マウスを MZ-700 で動作させるためのパッチです。
 
-<img style="width:45%" src="title.png">
-<img style="width:45%" src="screen.png">
+| タイトル画面           | ゲーム画面           |
+| --                 | --                   |
+|![title](title.png) | ![screen](screen.png)|
 
 
 ## 実行環境
